@@ -76,15 +76,16 @@ AI-Powered-Pneumonia-Detection-System/
 
 ### Home Page
 
-Add screenshot here.
+![Home Page](project_images/home_page.png)
 
 ### Pneumonia Detection
 
-Add screenshot here.
+![Pneumonia Detection](project_images/pneumonia_prediction.png)
 
 ### Normal Detection
 
-Add screenshot here.
+![Normal Detection](project_images/normal_prediction.png)
+
 
 ---
 
